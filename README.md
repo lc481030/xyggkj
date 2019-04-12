@@ -4,7 +4,7 @@
    <img src="https://img.shields.io/badge/Spring%20Boot-2.1.3.RELEASE-blue.svg" alt="Downloads">
  </p>  
  
-**Pig Microservice Architecture**   
+**夕阳果果信息科技**   
    
 - 基于 Spring Cloud Greenwich 、Spring Security OAuth2 的RBAC权限管理系统  
 - 基于数据驱动视图的理念封装 Element-ui，即使没有 vue 的使用经验也能快速上手  
@@ -12,7 +12,7 @@
 - 提供 lambda 、stream api 、webflux 的生产实践   
 
 
-<a href="https://pig4cloud.com/#/doc/pig" target="_blank">部署文档</a> | <a target="_blank" href="https://avue.top"> 前端解决方案</a> | <a target="_blank" href="https://gitee.com/log4j/pig/releases/v1.3.2"> 1.0  版本</a> | <a target="_blank" href="http://pigx.pig4cloud.com"> PigX在线体验</a>
+<a href="https://xygg4cloud.com/#/doc/xygg" target="_blank">部署文档</a> | <a target="_blank" href="https://avue.top"> 前端解决方案</a> | <a target="_blank" href="https://gitee.com/log4j/xygg/releases/v1.3.2"> 1.0  版本</a> | <a target="_blank" href="http://xyggx.xygg4cloud.com"> xyggX在线体验</a>
     
 
 
@@ -35,22 +35,22 @@ Avue | 1.5.0
 
 #### 模块说明
 ```lua
-pig
-├── pig-ui -- 前端工程[8080]
-├── pig-auth -- 授权服务提供[3000]
-└── pig-common -- 系统公共模块 
-     ├── pig-common-core -- 公共工具类核心包
-     ├── pig-common-log -- 日志服务
-     └── pig-common-security -- 安全工具类
-├── pig-config -- 配置中心[8888]
-├── pig-eureka -- 服务注册与发现[8761]
-├── pig-gateway -- Spring Cloud Gateway网关[9999]
-└── pig-upms -- 通用用户权限管理模块
-     └── pigx-upms-api -- 通用用户权限管理系统公共api模块
-     └── pigx-upms-biz -- 通用用户权限管理系统业务处理模块[4000]
-└── pigx-visual  -- 图形化模块 
-     ├── pigx-monitor -- Spring Boot Admin监控 [5001]
-     └── pigx-codegen -- 图形化代码生成[5003]
+xygg
+├── xygg-ui -- 前端工程[8080]
+├── xygg-auth -- 授权服务提供[3000]
+└── xygg-common -- 系统公共模块 
+     ├── xygg-common-core -- 公共工具类核心包
+     ├── xygg-common-log -- 日志服务
+     └── xygg-common-security -- 安全工具类
+├── xygg-config -- 配置中心[8888]
+├── xygg-eureka -- 服务注册与发现[8761]
+├── xygg-gateway -- Spring Cloud Gateway网关[9999]
+└── xygg-upms -- 通用用户权限管理模块
+     └── xyggx-upms-api -- 通用用户权限管理系统公共api模块
+     └── xyggx-upms-biz -- 通用用户权限管理系统业务处理模块[4000]
+└── xyggx-visual  -- 图形化模块 
+     ├── xyggx-monitor -- Spring Boot Admin监控 [5001]
+     └── xyggx-codegen -- 图形化代码生成[5003]
 	 
 ```
 #### 提交反馈
