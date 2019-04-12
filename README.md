@@ -11,14 +11,6 @@
 - 提供对常见容器化支持 Docker、Kubernetes、Rancher2 支持  
 - 提供 lambda 、stream api 、webflux 的生产实践   
 
-
-<a href="https://xygg4cloud.com/#/doc/xygg" target="_blank">部署文档</a> | <a target="_blank" href="https://avue.top"> 前端解决方案</a> | <a target="_blank" href="https://gitee.com/log4j/xygg/releases/v1.3.2"> 1.0  版本</a> | <a target="_blank" href="http://xyggx.xygg4cloud.com"> xyggX在线体验</a>
-    
-
-
-   
-![](https://images.gitee.com/uploads/images/2019/0330/065147_85756aea_410595.png)   
-
 #### 核心依赖 
 
 
@@ -53,21 +45,4 @@ xygg
      └── xyggx-codegen -- 图形化代码生成[5003]
 	 
 ```
-#### 提交反馈
 
-1. 欢迎提交 issue，请写清楚遇到问题的原因，开发环境，复显步骤。
-
-2. 不接受`功能请求`的 issue，功能请求可能会被直接关闭。  
-
-3. <a href="mailto:wangiegie@gmail.com">wangiegie@gmail.com</a>    
-
-4. QQ群: 175429071
-
-#### 开源协议
-![](https://images.gitee.com/uploads/images/2019/0330/065147_e07bc645_410595.png)
-
-
-#### 关注我们
-
-
-![](https://images.gitee.com/uploads/images/2019/0330/065148_f0ada806_410595.jpeg)
